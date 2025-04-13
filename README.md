@@ -7,7 +7,7 @@
 ## 🐶 My Favorite Pet
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQ0ZHRmczl3NnRucnc5NnhneTkzNHFtN3c4bmI1Zmc2NWJ2Zjk2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif" width="60%"/>
-<img src="love_pug.jpg" width="36%"/>
+<img src="love_pug.jpg" width="35.5%"/>
 </div>
 
 ## 🎶 My Favorite Singer
