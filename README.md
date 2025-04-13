@@ -5,7 +5,7 @@
 -👋 Hi, I’m @PanagiotaTr<br>- 👀 I’m interested in web development, data science, AI, and cybersecurity.<br>- 🌱 I’m currently learning additional programming languages and expanding my knowledge in cybersecurity.<br>- 💞️ I’m looking to collaborate on open-source projects, especially those related to coding, data analysis, cybersecurity, and automation.<br>- 📫 How to reach me: You can reach me through email at panayiota03@gmail.com.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I love learning new programming languages, diving into cybersecurity topics, and creating fun projects in my free time!
 
 ## 🐶 My Favorite Pet
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3U5dnM0YmloYnU4YXU5NWtsam1rOTNpcmhmeDRiMWI1aHAybWw3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRR9QuX8SH68M/giphy.gif"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdrbGU2bjE1ZXhncWRndmRmMDQzam4ydmQ4ZGJ4M3VydG1qNWdhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif"/>
 
 ## 🎶 My Favorite Singer
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0cnRuaG93MTU4MHg3eWhhajY4bzR5YWxjdHIwajQwb2xnb25vYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMhSX1SXK9vs0FoaSR/giphy.gif"/>
